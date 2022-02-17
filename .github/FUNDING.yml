@@ -1,5 +1,4 @@
 # These are supported funding model platforms
-github: # [Cerbrutus-BruteForcer, 0dayCTF]
+github: [Cerbrutus-BruteForcer, 0dayCTF]
 tidelift: "pypi/paramiko"
-lfx_crowdfunding: # Replace with a single LFX Crowdfunding project-name e.g., cloud-foundry
-custom: # Replace with up to 4 custom sponsorship URLs e.g., ['https://github.com/Cerbrutus-BruteForcer', 'https://github.com/0dayCTF']
+custom: ['https://github.com/Cerbrutus-BruteForcer', 'https://github.com/0dayCTF']
