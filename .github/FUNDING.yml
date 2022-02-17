@@ -1,4 +1,4 @@
 # These are supported funding model platforms
-github: ['Cerbrutus-BruteForcer','0dayCTF']
+github: ['Cerbrutus-BruteForcer', '0dayCTF']
 tidelift: "pypi/paramiko"
-custom: ['https://github.com/Cerbrutus-BruteForcer'], ['https://github.com/0dayCTF']
+custom: ['https://github.com/Cerbrutus-BruteForcer', 'https://github.com/0dayCTF']
